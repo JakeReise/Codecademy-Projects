@@ -1,0 +1,16 @@
+{
+  "name": "messagegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "messageGen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Reise",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "prime-num": "^2.0.1",
+    "wikijs": "^6.3.2"
+  }
+}
